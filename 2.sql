@@ -5,3 +5,5 @@ CREATE TABLE IF NOT EXISTS countries (
 )
 
 page : 1479 - ALTER TABLE - Description
+
+https://stackoverflow.com/questions/37232649/will-creating-an-sql-table-that-already-exists-overwrite-it/37232681
